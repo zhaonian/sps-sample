@@ -1,5 +1,5 @@
 # sps-sample
-sample
+sam
 
 
 1
